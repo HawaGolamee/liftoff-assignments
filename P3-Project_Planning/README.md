@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://liftoff-apr-21.slack.com/files/U01TRSQBHE0/F01V66KHQ0Z/liftoff_wireframes.pdf
+-[Recipe-tracker Wireframe](https://liftoff-apr-21.slack.com/files/U01TRSQBHE0/F01V66KHQ0Z/liftoff_wireframes.pdf)
 
 ### Project Tracker
 
-https://trello.com/b/KB48rn5U/liftoff-spring-2021
+[Recipe-tracker Tracker](https://trello.com/b/KB48rn5U/liftoff-spring-2021)
 
 ### Project Repo Link
 
-https://github.com/Liftoff-Spring-2021/liftoff-recipe-tracker
+[Recipe-tracker Github](https://github.com/Liftoff-Spring-2021/liftoff-recipe-tracker)
