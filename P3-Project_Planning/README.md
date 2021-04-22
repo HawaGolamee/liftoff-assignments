@@ -7,8 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-https://liftoff-apr-21.slack.com/files/U01TRSQBHE0/F01V66KHQ0Z/liftoff_wireframes.pdf
+[Recipe-Tracker Wireframe](img.png)
 
 
 ### Project Tracker
