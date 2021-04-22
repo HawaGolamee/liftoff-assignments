@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/HawaGolamee
+[Hawa Golamee](https://github.com/HawaGolamee)
  
 ### LinkedIn
-https://www.linkedin.com/in/hawa-golamee-2b81a9210/
+[Hawa Golamee](https://www.linkedin.com/in/hawa-golamee-2b81a9210/)
 
 ### Resume
 Copy of LC RESUME TEMPLATE No Experience_Yes Degree 021219 (1).pdf
