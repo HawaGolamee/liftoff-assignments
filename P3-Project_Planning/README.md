@@ -7,6 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+[Recipe Tracker wireframe](https://github.com/HawaGolamee/liftoff-assignments/blob/master/P3-Project_Planning/Liftoff%20Wireframes.pdf)
 
 
 ### Project Tracker
