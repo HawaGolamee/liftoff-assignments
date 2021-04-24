@@ -7,7 +7,6 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-[Recipe-Tracker Wireframe](img.png)
 
 
 ### Project Tracker
